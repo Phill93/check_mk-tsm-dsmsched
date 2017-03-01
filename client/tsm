@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "<<<tsm>>>"
+cat /usr/local/tsm/log/dsmsched.log
